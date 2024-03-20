@@ -1,0 +1,4 @@
+# robots.txt for https://cmis.tw/
+User-agent: *
+Disallow:
+Sitemap:http://cmis.tw/sitemap.xml
